@@ -1,4 +1,4 @@
-# Web3.js Curso rápido.
+# Web3.js • Cursos(rápido) desenvolvimento blockchain ethereum.
 
 Desenvolvimento blockchain com Web3.js
 
@@ -17,3 +17,5 @@ Link: [https://www.youtube.com/watch?v=eNLbFAZ6AGc&list=PLPPrIZLm5juY45T-MbEdkvQ
 [Web3js](https://web3js.readthedocs.io/en/v1.7.1/)
 
 [Ganache](https://trufflesuite.com/ganache/index.html)
+
+![Web3.js • Cursos(rápido) desenvolvimento blockchain ethereum.](./nft-choose.png)
