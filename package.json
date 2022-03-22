@@ -11,6 +11,7 @@
   "author": "Jeff Mascarenhas",
   "license": "ISC",
   "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
     "web3": "^1.7.1"
   }
 }
